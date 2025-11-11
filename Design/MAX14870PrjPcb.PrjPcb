@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
 
 [Document3]
-DocumentPath=MAX14870.SchDoc
+DocumentPath=MAX14870_Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
