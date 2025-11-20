@@ -304,6 +304,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STRVULVJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for H18R2PrjPcb\Design Rule Check - H18R2.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Module_Description
 Value=RGB LED
