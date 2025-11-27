@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [H18R2PrjPcb.PrjPcb]
+   Generated File[Pick Place for H18R2.txt]
+   Generated File[Pick Place for H18R2.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:57:46 PM On 11/26/2025
